@@ -1,0 +1,16 @@
+html ,body {
+    background-image: url(cesar-couto-BGPIC.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    flex-direction: row;
+}
+.chat-box {
+    margin: auto;
+}
